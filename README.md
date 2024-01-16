@@ -1,6 +1,6 @@
 # Open-Refine
 
-En este repositorio encuentra resuelto el proyecto final del módulo de Calidad de Datos perteneciente a la diplomatira en Análisis de Datos impartida por el @institutoCPE!
+En este repositorio se encuentra resuelto el proyecto final del módulo de Calidad de Datos perteneciente a la diplomatura en Análisis de Datos impartida por el @institutoCPE!
 
 Fue un proyecto en equipo de 3 personas donde se llegó a trabajar a nivel de refinamiento de datos con lenguaje GREL y expresiones regulares.
 
