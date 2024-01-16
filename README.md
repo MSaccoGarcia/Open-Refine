@@ -5,5 +5,3 @@ En este repositorio encuentra resuelto el proyecto final del módulo de Calidad 
 Fue un proyecto en equipo de 3 personas donde se llegó a trabajar a nivel de refinamiento de datos con lenguaje GREL.
 
 Se encuentran las bases de datos a tratar, así como también el entregable final presentado. 
-
-Queda disponible también el Zip con el OpenRefine disponible para instalarlo en cualquier pc :D!
